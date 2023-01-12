@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working on Natural Language Processing with Transformers.
 - 🔭 I previously worked on glacier segmentation from MultiSpectral Images using Deep Learning.
 - 😄 Pronouns: He/Him
-
+<!--
 ----
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bibek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aryal007&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryal007&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Aryal007" height="192px"/>
   </p>
-
+-->
 ----
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
