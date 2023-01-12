@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ph.D.+Candidate,+UTEP;Research+Associate,+Systems+Ecology+Lab;Microsoft+Intern,+2020%262021;Visiting+Scholar,+Texas+A%26M;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Applied+Scientist+II,+Microsoft;Ph.D.,+Computational+Science,+UTEP;Research+Associate,+Systems+Ecology+Lab+(2020-2022);Microsoft+Intern,+2020%262021;Visiting+Scholar,+Texas+A%26M;&center=true&width=500&height=50"></a>
 </p>
 
 ----
