@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Applied+Scientist+II,+Microsoft;Ph.D.,+Computational+Science,+UTEP;Research+Associate,+Systems+Ecology+Lab+(2020-2022);Microsoft+Intern,+2020%262021;Visiting+Scholar,+Texas+A%26M;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Applied+Scientist+II,+Microsoft;Ph.D.+Computational+Science,+UTEP;Vision+and+Learning+Lab+(2018-2022)+Systems+Ecology+Lab+(2020-2022);Microsoft+Intern,+2020%262021;Visiting+Scholar,+Texas+A%26M+(2022-2022);&center=true&width=500&height=50"></a>
 </p>
 
 ----
@@ -15,10 +15,10 @@
 
 Here are some ideas to get you started:
 -->
-- :mortar_board: I'm currently getting my Ph.D in Computational Science.
-- 🔭 I’m currently working on automating glacier mapping from MultiSpectral Images using Deep Learning.
-- 🌱 I’m currently learning Natural Language Processing with Transformers.
-- :office: I will be joining Microsoft as a Data Scientist starting January 2023.
+- :mortar_board: I'm graduated with a Ph.D in Computational Science from The University of Texas at El Paso in 2022.
+- I am curreltly working as Applied Scientist in Microsoft, Search and Assistance team in Microsoft.
+- 🌱 I’m currently working on Natural Language Processing with Transformers.
+- 🔭 I previously worked on glacier segmentation from MultiSpectral Images using Deep Learning.
 - 😄 Pronouns: He/Him
 
 ----
