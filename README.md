@@ -15,10 +15,10 @@
 
 Here are some ideas to get you started:
 -->
-- :mortar_board: I'm graduated with a Ph.D in Computational Science from The University of Texas at El Paso in 2022.
-- I am curreltly working as Applied Scientist in Microsoft, Search and Assistance team in Microsoft.
-- 🌱 I’m currently working on Natural Language Processing with Transformers.
-- 🔭 I previously worked on glacier segmentation from MultiSpectral Images using Deep Learning.
+- :mortar_board: Ph.D in Computational Science from The University of Texas at El Paso, 2022.
+- Applied Scientist in Microsoft, Search and Assistance team in Microsoft.
+- 🌱 Currently working on Natural Language Processing using Large Language Models.
+- 🔭 Previously worked on glacier segmentation from MultiSpectral Images using Deep Learning.
 - 😄 Pronouns: He/Him
 <!--
 ----
